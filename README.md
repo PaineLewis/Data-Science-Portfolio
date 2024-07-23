@@ -2,7 +2,7 @@
 
 Included on this site are two separate projects. See project descriptions and links to code below. 
 
-#**ASC 842 Automation**
+**ASC 842 Automation**
 
 In this project, I utilize Python and SQL to create a framework for automating lease accounting under ASC 842. This project was done with a consulting or audit context in mind, and the final product is designed to be used by a team of several people to track lease information and prepare lease reporting for several companies. The interface is currently a Juypter Notebook (linked below), but I have plans to build a better interface in the future. 
 
@@ -18,7 +18,7 @@ After all leases have been added for a copmany, Part II allows users to pull rep
 
 This project demonstrates skills relevant to any accounting process that requires aggregating data from various sources into a centralized database, then extracting and preparing the data for use in financial reporting. 
 
-#**Inventory Management & Forecasting**
+**Inventory Management & Forecasting**
 
 The second project is an experiment applying different forecasting techniques to supplement a basic inventory management strategy. The link below contains a more detailed description/walkthrough of the project, as well as all of the project code. 
 
