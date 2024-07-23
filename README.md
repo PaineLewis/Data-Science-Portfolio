@@ -8,7 +8,7 @@ In this project, I utilize Python and SQL to create a framework for automating l
 
 The project first establishes a database hosted in Railway, enabling any team member with access to the internet to add lease information or pull reports (I did not include a link to this code). From there, the first notebook is an interface through which an user can write, update, or delete lease information into the database. To add a lease, an user establishes a company, then adds leases to a company. Each lease requires the input of basic information about the lease terms (for the purpose of lease classification under ASC 842), and a payment schedule. A link to this Notebook is below:
 
-[ASC 842 Automation Part I](addlink)
+[ASC 842 Automation Part I](https://github.com/PaineLewis/Paine-Lewis-Portfolio/blob/68bf7362b15b5b8e0412cfa7b43d4a9e559191b9/ASC_842_Automation_Part_1.ipynb)
 
 After all leases have been added for a copmany, Part II allows users to pull reports. A link to the Part II Notebook is below, as well as a link to a sample report. This report contains all of the necessary information to compile the lease section of the company's financial statements, including an amortization for each lease individually, and a summary of all lease activity in the period segregated by operating and finance leases. 
 
