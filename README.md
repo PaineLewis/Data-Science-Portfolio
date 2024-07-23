@@ -1,6 +1,6 @@
 # Paine-Lewis-Portfolio
 
-Included in this link are two separate projects. See project descriptions and links to code below. 
+Included on this site are two separate projects. See project descriptions and links to code below. 
 
 #**ASC 842 Automation**
 
