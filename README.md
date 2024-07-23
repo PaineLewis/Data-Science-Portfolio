@@ -14,7 +14,7 @@ After all leases have been added for a copmany, Part II allows users to pull rep
 
 [ASC 842 Automation Part II](https://github.com/PaineLewis/Paine-Lewis-Portfolio/blob/112ce9b0fb1d4fa56bd8559a71c76da8c842bfca/ASC_842_Automation_Part_2.ipynb)
 
-[Sample Output](inputlink)
+[Sample Output](https://github.com/PaineLewis/Paine-Lewis-Portfolio/blob/e7652185a68c79376a48afab1869588e8dbd944a/Example_Output.xlsx)
 
 This project demonstrates skills relevant to any accounting process that requires aggregating data from various sources into a centralized database, then extracting and preparing the data for use in financial reporting. 
 
