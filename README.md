@@ -12,7 +12,7 @@ The project first establishes a database hosted in Railway, enabling any team me
 
 After all leases have been added for a copmany, Part II allows users to pull reports. A link to the Part II Notebook is below, as well as a link to a sample report. This report contains all of the necessary information to compile the lease section of the company's financial statements, including an amortization for each lease individually, and a summary of all lease activity in the period segregated by operating and finance leases. 
 
-[ASC 842 Automation Part II](insertlink)
+[ASC 842 Automation Part II](https://github.com/PaineLewis/Paine-Lewis-Portfolio/blob/112ce9b0fb1d4fa56bd8559a71c76da8c842bfca/ASC_842_Automation_Part_2.ipynb)
 
 [Sample Output](inputlink)
 
